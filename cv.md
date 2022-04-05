@@ -1,15 +1,15 @@
-![main photo](./cv-photo.jpgcv-photo.jpgjpg)
+![main photo](./cv-photo.jpgcv-photo.jpg)
 # Serdar Babayev #
-**Contactss:**
-Email: Serdarmyratbabayev@gmail.com
-Phone number: +79375194039
-Telegram: @Serdarmyratbabayev
-Discord: Serdar#4376
+**Contactss: **
+* Email: Serdarmyratbabayev@gmail.com
+* Phone number: +79375194039
+* Telegram: @Serdarmyratbabayev
+* Discord: Serdar#4376
 
 ## About me ##
 My Name is Serdar. I love coding. I espacially like when I can create new stuff with code. Feel free to contact me!
 
-## My skills##
+## My skills ##
 * HTML
 * CSS
 * Javascript (Beginner level)
